@@ -1,13 +1,28 @@
-.website-title {
-    font-size: 48px;
-    text-align: center;
-    color:whitesmoke;
-    background-color: black;
+body {
+    margin-left: 10px;
 }
 
-.cat-image {
+.website-title {
+    font-size: 4em;
+    text-align: center;
+}
+
+.first-image, .second-image{
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 50%;
 }
+
+.bold {
+    font-weight: 800;
+}
+
+.italics {
+    font-style: italic;
+}
+/*
+.website-desc {
+
+}
+*/
